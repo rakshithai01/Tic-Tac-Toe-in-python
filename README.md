@@ -16,7 +16,7 @@ A simple, interactive **Tic-Tac-Toe** game featuring a Graphical User Interface 
 ## 📥 Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/rakshithai01/Tic-Tac-Toe-in-python.git](https://github.com/rakshithai01/Tic-Tac-Toe-in-python.git)
+   git clone https://github.com/rakshithai01/Tic-Tac-Toe-in-python.git
    ```
 2.  **Navigate to the directory:**
    ```bash
