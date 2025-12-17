@@ -34,4 +34,4 @@ python tic_tac_toe.py
 4. The first player to get 3 marks in a row wins!
 
 **👤 Author**
-**Buddineni Rakshith** LinkedIn: [https://www.linkedin.com/in/buddineni-rakshith](https://www.linkedin.com/in/buddineni-rakshith)
+**Buddineni Rakshith** **-** **LinkedIn**: [https://www.linkedin.com/in/buddineni-rakshith](https://www.linkedin.com/in/buddineni-rakshith)
