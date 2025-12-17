@@ -24,7 +24,7 @@ A simple, interactive **Tic-Tac-Toe** game featuring a Graphical User Interface 
    ```
 3.  **Run the game:**
    ```bash
-      python your_filename.py
+python your_filename.py
    ```
 
 **🎮 How to Play**
