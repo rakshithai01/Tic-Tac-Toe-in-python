@@ -20,7 +20,7 @@ A simple, interactive **Tic-Tac-Toe** game featuring a Graphical User Interface 
    ```
 2.  **Navigate to the directory:**
    ```bash
-   cd tic-tac-toe-python
+   cd  Tic-Tac-Toe-in-python
    ```
 3.  **Run the game:**
    ```bash
